@@ -26,22 +26,18 @@
 ## 🏗️ Architecture Overview
 
 ```
-┌─────────────────┐     ┌──────────────────┐
+┌─────────────────┐     ┌───────────────────┐
 │   Mobile App    │     │  Admin Dashboard  │
 │   (Flutter)     │     │    (Web)          │
-└────────┬────────┘     └────────┬─────────┘
+└────────┬────────┘     └────────┬──────────┘
          │                       │
          └──────────┬────────────┘
                     │
-           ┌────────▼────────┐
+           ┌────────▼─────────┐
            │    Backend API   │
            │   (Hostinger)    │
-           └────────┬────────┘
-                    │
-         ┌──────────▼──────────┐
-         │   Firebase          │
-         │   (Notifications)   │
-         └─────────────────────┘
+           └──────────────────┘
+        
 ```
 
 ---
@@ -51,7 +47,7 @@
 | Platform | URL |
 |----------|-----|
 | 🏥 Main Website | [loungeclinic.net](https://loungeclinic.net) |
-| 💚 Health Platform | [wealthlifehealth.net](https://wealthlifehealth.net) |
+| 💚 Health Platform Company | [wealthlifehealth.net](https://wealthlifehealth.net) |
 
 ---
 
@@ -60,15 +56,14 @@
 **Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
 
 **Dashboard**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+
 
 **Infrastructure**
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white)
