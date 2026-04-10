@@ -2,6 +2,9 @@
 
 <img src="https://img.shields.io/badge/Lounge%20Clinic-Organization-4A90D9?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TypeScript-Admin Dashboard-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-Backend API Logic-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 
 # 🏥 Lounge Clinic
